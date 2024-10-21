@@ -58,12 +58,7 @@ For row II + III + IV, the data is approximately uniformly distributed across th
 
 ---
 
-## Evalution
 
-To be filled out
-
-## Installation  
-To be filled out
 
 ```bash
 git clone https://github.com/username/LLM-DetectAIve.git  
@@ -73,5 +68,11 @@ git clone https://github.com/username/LLM-DetectAIve.git
 ## Cite
 If you use LLM-DetectAIve in your research cite as:
 ```bibtex
+@article{abassy2024llmdetectaivetoolfinegrainedmachinegenerated,
+      title = {LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection}, 
+      author = {Mervat Abassy and Kareem Elozeiri and Alexander Aziz and Minh Ngoc Ta and Raj Vardhan Tomar and Bimarsha Adhikari and Saad El Dine Ahmed and Yuxia Wang and Osama Mohammed Afzal and Zhuohan Xie and Jonibek Mansurov and Ekaterina Artemova and Vladislav Mikhailov and Rui Xing and Jiahui Geng and Hasan Iqbal and Zain Muhammad Mujahid and Tarek Mahmoud and Akim Tsvigun and Alham Fikri Aji and Artem Shelmanov and Nizar Habash and Iryna Gurevych and Preslav Nakov},
+      year = {2024},
+      journal = {arXiv},
+}
 
 ```
