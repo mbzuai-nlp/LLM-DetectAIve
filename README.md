@@ -59,12 +59,6 @@ For row II + III + IV, the data is approximately uniformly distributed across th
 ---
 
 
-
-```bash
-git clone https://github.com/username/LLM-DetectAIve.git  
-
-```
-
 ## Cite
 If you use LLM-DetectAIve in your research cite as:
 ```bibtex
