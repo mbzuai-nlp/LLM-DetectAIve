@@ -9,7 +9,7 @@
        alt="Hugging Face Logo" style="width: 50px; object-fit: contain;">
 </a>
 
-[Try it yourself!](tps://huggingface.co/spaces/raj-tomar001/LLM-DetectAIve)
+[Try it yourself!](https://huggingface.co/spaces/raj-tomar001/LLM-DetectAIve)
 
 [Video demo](https://www.youtube.com/watch?v=E8eT_bE7k8c&feature=youtu.be)
 
