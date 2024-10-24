@@ -26,7 +26,7 @@ def load_model(model_name):
     return pipeline('text-classification', model=model, tokenizer=tokenizer, truncation=True, max_length=512, top_k=4)
 
 # Load the model from Hugging Face (use the correct model name or path)
-classifier = load_model("raj-tomar001/LLM-DetectAIve/deberta-base")  # Adjust model name
+classifier = load_model("raj-tomar001/LLM-DetectAIve_deberta-base")  # Adjust model name
 
 # Load sample essays
 with open(SAMPLE_JSON_PATH, 'r') as f:
