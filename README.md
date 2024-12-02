@@ -2,7 +2,7 @@
 
 *A Tool for Fine-Grained Machine-Generated Text Detection*
 
-<a href="https://arxiv.org/abs/2405.05583"><img src="https://img.shields.io/badge/arXiv-2405.05583-B31B1B" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2408.04284"><img src="https://img.shields.io/badge/arXiv-2405.05583-B31B1B" alt="arXiv"></a>
 
 <a href="https://huggingface.co/spaces/raj-tomar001/LLM-DetectAIve">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" 
