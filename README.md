@@ -62,12 +62,43 @@ For row II + III + IV, the data is approximately uniformly distributed across th
 ## Cite
 If you use LLM-DetectAIve in your research cite as:
 ```bibtex
-@article{abassy2024llmdetectaivetoolfinegrainedmachinegenerated,
-      title = {LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection}, 
-      author = {Mervat Abassy and Kareem Elozeiri and Alexander Aziz and Minh Ngoc Ta and Raj Vardhan Tomar and Bimarsha Adhikari and Saad El Dine Ahmed and Yuxia Wang and Osama Mohammed Afzal and Zhuohan Xie and Jonibek Mansurov and Ekaterina Artemova and Vladislav Mikhailov and Rui Xing and Jiahui Geng and Hasan Iqbal and Zain Muhammad Mujahid and Tarek Mahmoud and Akim Tsvigun and Alham Fikri Aji and Artem Shelmanov and Nizar Habash and Iryna Gurevych and Preslav Nakov},
-      journal = {arXiv preprint arXiv:2408.04284},
-      year = {2024}
-
+@inproceedings{abassy-etal-2024-llm,
+    title = "{LLM}-{D}etect{AI}ve: a Tool for Fine-Grained Machine-Generated Text Detection",
+    author = "Abassy, Mervat  and
+      Elozeiri, Kareem  and
+      Aziz, Alexander  and
+      Ta, Minh Ngoc  and
+      Tomar, Raj Vardhan  and
+      Adhikari, Bimarsha  and
+      Ahmed, Saad El Dine  and
+      Wang, Yuxia  and
+      Mohammed Afzal, Osama  and
+      Xie, Zhuohan  and
+      Mansurov, Jonibek  and
+      Artemova, Ekaterina  and
+      Mikhailov, Vladislav  and
+      Xing, Rui  and
+      Geng, Jiahui  and
+      Iqbal, Hasan  and
+      Mujahid, Zain Muhammad  and
+      Mahmoud, Tarek  and
+      Tsvigun, Akim  and
+      Aji, Alham Fikri  and
+      Shelmanov, Artem  and
+      Habash, Nizar  and
+      Gurevych, Iryna  and
+      Nakov, Preslav",
+    editor = "Hernandez Farias, Delia Irazu  and
+      Hope, Tom  and
+      Li, Manling",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-demo.35",
+    doi = "10.18653/v1/2024.emnlp-demo.35",
+    pages = "336--343",
+    abstract = "The ease of access to large language models (LLMs) has enabled a widespread of machine-generated texts, and now it is often hard to tell whether a piece of text was human-written or machine-generated. This raises concerns about potential misuse, particularly within educational and academic domains. Thus, it is important to develop practical systems that can automate the process. Here, we present one such system, LLM-DetectAIve, designed for fine-grained detection. Unlike most previous work on machine-generated text detection, which focused on binary classification, LLM-DetectAIve supports four categories: (i) human-written, (ii) machine-generated, (iii) machine-written, then machine-humanized, and (iv) human-written, then machine-polished. Category (iii) aims to detect attempts to obfuscate the fact that a text was machine-generated, while category (iv) looks for cases where the LLM was used to polish a human-written text, which is typically acceptable in academic writing, but not in education. Our experiments show that LLM-DetectAIve can effectively identify the above four categories, which makes it a potentially useful tool in education, academia, and other domains.LLM-DetectAIve is publicly accessible at https://github.com/mbzuai-nlp/LLM-DetectAIve. The video describing our system is available at https://youtu.be/E8eT{\_}bE7k8c.",
 }
-
 ```
